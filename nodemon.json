@@ -1,0 +1,9 @@
+{
+    "events": {
+        "restart": "npm run compile"
+    },
+    "watch": ["src/"],
+	"ext": "src/",
+    "ignore": ["bot/**/*"],
+    "exec": "tsc"
+}
