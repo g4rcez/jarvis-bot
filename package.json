@@ -1,7 +1,7 @@
 {
     "name": "jarvis-bot",
     "version": "0.0.1",
-    "description": "to help you without taking your hands off the keyboard",
+    "description": "A Telegram Bot to help you without taking your hands off the keyboard",
     "main": "bot/index.js",
     "scripts": {
         "compile": "tsc",
